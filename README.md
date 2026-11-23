@@ -44,6 +44,11 @@ Seasons covered: 2015–2026.
 - Interactive dashboard development
 - Sports performance analysis
 
+## Dashboard Preview
+
+### Dashboard Overview
+![Ohio State Football Dashboard](screenshots/dashboard_overview.png)
+
 ## Disclaimer
 
 This is an independent analytics project created for educational and portfolio purposes. Data is sourced from the publicly available CollegeFootballData API.
