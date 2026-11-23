@@ -47,7 +47,7 @@ Seasons covered: 2015–2026.
 ## Dashboard Preview
 
 ### Dashboard Overview
-![Ohio State Football Dashboard](screenshots/OSU Analytics Dashboard Overview.png)
+![Ohio State Football Dashboard]([screenshots/OSU Analytics Dashboard Overview.png](https://github.com/averydepo/ohio-state-football-analytics/blob/main/screenshots/OSU%20Analytics%20Dashboard%20Overview.png?raw=true))
 
 ## Disclaimer
 
