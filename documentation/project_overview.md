@@ -12,9 +12,9 @@ The primary objectives of this project were to:
 - Present historical trends and statistical comparisons through data visualizations.
   
 ## Tools and Data Sources 
-Power BI Desktop: Dashboard development, data modeling, and visualization.
-Power Query: Data retrieval and transformation.
-CollegeFootballData API: Source of historical college football data.
+- Power BI Desktop: Dashboard development, data modeling, and visualization.
+- Power Query: Data retrieval and transformation.
+- CollegeFootballData API: Source of historical college football data.
 
 ## Project Purpose 
 This project demonstrates the use of API-based data integration, data transformation, and interactive data visualization to turn publicly available sports statistics into an analytical dashboard. It was developed as an independent project to strengthen practical data analytics and business intelligence skills.
